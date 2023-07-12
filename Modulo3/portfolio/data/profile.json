@@ -1,0 +1,54 @@
+{
+  "name": "Cinthia Santana",
+  "photo": "https://avatars.githubusercontent.com/u/89111134?s=400&u=ebb8066eaf01c29e42a3d9a5561bde76334edd70&v=4",
+  "job": "Desenvolvedora Web",
+  "location": "São Paulo - SP",
+  "phone": "(16) 9 4949-5076",
+  "email": "cinthiasantanadev@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Desenvolvimento de uma Pokedex",
+      "url": "https://github.com/cinthiasantana/formacao-java-script-web-developer/tree/main/Modulo2/pokedex",
+      "github": true
+    },
+    {
+      "name": "Criação de uma página de portfolio",
+      "url": "https://github.com/cinthiasantana/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Cebi Informática",
+      "period": "2021 - até o momento",
+      "description": "Onde iniciei minha jornada no mundo da programação!"
+    }
+  ]
+}
